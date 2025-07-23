@@ -1,4 +1,4 @@
-<?php
+https://discord.com/api/webhooks/1397426120848310443/evgwJWdNzxef8GKVDipZNT-Ryw2YrSR-1X7HlbkhXbMYzw948rAB0Z28caiCN8rxB6Dz<?php
 
 /* 
 Please keep this copyright statement intact
